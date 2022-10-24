@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    font-size: 2rem;
+    background-color: #f5ba13;
+    box-shadow: 0 0 10px 0 black;
+    width: 100%;
+}
+header h1{
+    font-family: 'Tangerine', serif;
+    color: aliceblue;
+    margin-top: 0;
+    padding: 1rem 0 1rem 2rem;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+footer p{
+    font-size: 1rem;
+    text-align: center;
+}
+.note{
+    margin: 2rem;
+    margin-top: 0;
+    border-radius: 1rem;
+    background-color: rgba(0, 255, 47, 0.607);
+    width: 200px;
+    float: left;
+}
+.note p{
+    padding: 1rem;
+    text-align: center;
+    font-size: 16px;
+}
